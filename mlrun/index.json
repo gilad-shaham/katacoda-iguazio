@@ -27,10 +27,11 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "mlrun-setup.sh"
     },
     "finish": {
-      "text": "finish.md"
+      "text": "finish.md",
     }
   },
   "environment": {
