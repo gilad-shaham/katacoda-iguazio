@@ -1,3 +1,5 @@
+#!/bin/bash
+
 kubectl create namespace mlrun
 helm repo add stable https://kubernetes-charts.storage.googleapis.com/
 helm install -n mlrun nfsprov stable/nfs-server-provisioner

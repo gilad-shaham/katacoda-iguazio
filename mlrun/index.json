@@ -31,7 +31,7 @@
       "courseData": "mlrun-setup.sh"
     },
     "finish": {
-      "text": "finish.md",
+      "text": "finish.md"
     }
   },
   "environment": {
